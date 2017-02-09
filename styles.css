@@ -1,11 +1,20 @@
-body {
-  background: red;
+p {
+  font-family: Teletype;
 }
 
 h1 {
   border: 3px dashed blue;
   margin: auto;
   padding: 5px 10px 5px 10px;
+  font-family: Lithograph, Old Century;
+}
+
+h2 {
+  font-family:Lithograph, Old Century;
+}
+
+h3 {
+  font-family:Lithograph, Old Century;
 }
 
 footer>p {
