@@ -7,3 +7,7 @@ h1 {
   margin: auto;
   padding: 5px 10px 5px 10px;
 }
+
+footer>p {
+  text-align:center;
+}
