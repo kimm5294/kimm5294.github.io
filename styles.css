@@ -7,16 +7,18 @@ h1 {
   border: 3px dashed blue;
   margin: auto;
   padding: 20px 10px 20px 10px;
-  font-family: Lithograph, Old Century;
+  font-family: Lithograph;
   text-align:center;
 }
 
 h2 {
-  font-family:Lithograph, Old Century;
+  font-family:Lithograph;
+  float:center;
 }
 
 h3 {
-  font-family:Lithograph, Old Century;
+  float:center;
+  font-family:Lithograph;
 }
 
 footer>p {
