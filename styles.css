@@ -36,8 +36,10 @@ footer>p {
 
 .text {
   text-align:center;
-  background-color: blue;
+  background-color: lightblue;
   border-radius: 15px;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 
 nav>li:hover {
@@ -46,4 +48,10 @@ nav>li:hover {
 
 a:visited {
   color:red;
+}
+
+@media screen and (max-width: 400px) {
+  * {
+    font-size: .8em;
+  }
 }
