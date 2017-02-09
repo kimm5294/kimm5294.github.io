@@ -3,6 +3,7 @@ p {
 }
 
 h1 {
+  background-color: red;
   float:center;
   border: 3px dashed blue;
   margin: auto;
@@ -14,11 +15,15 @@ h1 {
 h2 {
   font-family:Arial;
   float:center;
+  margin:auto;
+  text-align: center;
 }
 
 h3 {
   float:center;
   font-family:Arial;
+  margin: auto;
+  text-align: center;
 }
 
 footer>p {
@@ -33,4 +38,12 @@ footer>p {
   text-align:center;
   background-color: blue;
   border-radius: 15px;
+}
+
+nav>li:hover {
+  background-color:lightblue;
+}
+
+a:visited {
+  color:red;
 }
