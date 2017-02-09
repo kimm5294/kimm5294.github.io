@@ -52,6 +52,6 @@ a:visited {
 
 @media screen and (max-width: 400px) {
   * {
-    font-size: .8em;
+    font-size: 70%;
   }
 }
